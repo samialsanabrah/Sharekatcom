@@ -1,0 +1,187 @@
+Sharekatcom application
+team:
+Sami Abdul Kareem Alsanabrah	202010437
+Ahmed Jamal Karzoun	201910082
+Anas Ibrahim aljawabrah	202130057
+
+Team leader: Ahmed Jamal Karzoun
+Tools and Technologies Used:
+1.Flutter
+2. Firebase
+3. Android Studio
+4. GitHub
+
+
+
+
+
+
+
+
+Cover Page
+
+Software Requirements Specification (SRS)
+Sharekatcom application
+Version: 2.0.0
+6/8/2023
+link GitHub: https://github.com/ahmadkarazou/Sharekatcom
+Amane Arabah University
+
+ 
+
+
+
+
+
+
+
+
+Revisions Page 
+Version	Primary Author 	Description of Version	Date Completed
+2.0.0	Ahmad Karzoun	ANALYSIS AND DESIGN	6/8/2023
+
+
+
+
+
+
+
+
+
+
+
+
+SYSTEM ANALYSIS AND DESIGN	04
+2.1 System Analysis	04
+           2.1.1 Requirement Elicitation Techniques	05
+2.1.2 Specific Requirements 	05
+        2.1.2.1 Functional Requirements -----------------	06
+        2.1.2.2 Non-Functional Requirement----	07
+         2.1.2.3 External Interfaces-----------------------------	07
+        2.1.2.4 Design Constraints----------------------	08
+
+
+
+
+
+
+
+
+
+
+
+1.1	System Analysis
+
+In software engineering that are many approaches used to build the project successfully. In this project SDLC is used as mentioned in the section 2.5 .
+The system analysis for the Sharekatcom app project was conducted using 
+combination of requirements elicitation and data flow modeling techniques.
+The requirements elicitation process involved conducting interviews and surveys with stakeholders. Here is a high-level system analysis of Sharekatcom:
+
+•	Users: Sharekatcom has two types of users: individuals and businesses. Individuals can create their accounts, while businesses can create accounts to manage their business-related activities.
+•	Registration: Users must register on the platform to create their accounts. Individuals need to provide their national ID number and a phone number, while businesses need to provide their commercial registration number.
+•	Support: Sharekatcom provides support to users through various channels, including a help center, email, and phone support.
+•	Security: The platform uses various security measures to protect user data, including encryption, firewalls, and regular security audits.
+
+
+
+2.1.1 Requirement Elicitation Techniques
+
+Requirement elicitation techniques are used to gather and define requirements for a system or software. Here are some requirement elicitation techniques that could be used for the Sharekatcom app:
+
+•	Focus groups: Focus groups involve gathering a group of stakeholders together to discuss their needs and expectations, focus groups could be used to gather feedback from individual and business users about specific aspects of the platform, such as registration, payment, and support.
+•	Prototyping: Prototyping involves building a basic version of the system to gather feedback from stakeholders, prototyping could be used to gather feedback on the user interface, user experience, and other aspects of the platform
+•	interview: The companies concerned and the specific objectives of the interview were identified and a list of open questions and topics to be discussed during the interview were developed.
+
+1.1.2	Specific Requirements
+
+The specific requirements divided into two sets functional and non-functional requirements need to be carefully selected in order to ensure that they make sense in the context of the final outcome of the project and conveyed to all the team members working on it [2]. Based on the analysis of the Sharekatcom app platform, here are some specific requirements that should be considered during the design and implementation of the system following at:
+
+2.1.2.1 Functional Requirements
+ 
+For user and company owners:
+	Registration: The user must register a new account in order to use the application based on the information in the application.
+	Login: This step depends on the previous process, which is to register a new account, the user must log in with the email and password used from the account registration process before.
+	View: This currency is available only to people registered on the application and depends on the previous step, which is the entry this currency allows the user to view the information of the company owners registered in the application.
+	Rate: The user can enter the rating for a particular company owner by selecting the rating from the existing stars.
+	Filter: type of application that allows users to filter through a large amount of content or data based on specific criteria. 
+
+•	Just for company owners
+
+	Add organization: The user who is registered in the application as an available renter can add companies or services.
+	Update information: The user registered in the application as a rental is available to him to modify the information of companies or services.
+	Delete: The user who is registered in the application as an available renter can delete a company owners and service.
+
+
+
+
+
+
+
+
+2.1.2.2 Non-Functional Requirements
+
+ Usability
+
+UI Consistency: The app to have a consistent user interface design, with a clear and intuitive navigation menu. The app also uses consistent fonts, colors, and design elements throughout the app.
+
+Reliability
+
+Availability: Sharekatcom appears to be highly available, as it can be accessed from anywhere with an internet connection. The app is hosted on a reliable server, which ensures that it is always accessible to users.
+
+ Security
+
+The app is safe to use, as it is secured with encryption, and has measures to protect user data and prevent cyberattacks.
+
+Performance
+
+Throughput: The performance of Sharekatcom in terms of throughput would depend on a variety of factors, such as the app hosting infrastructure, the efficiency of its code and programming, and the size and complexity of its data.
+
+
+
+
+
+1.1.2.4	Design Constraints
+
+•	User experience: The design of the app must prioritize the user experience. The app must provide a seamless and responsive user experience across a range of devices and screen sizes.
+•	Branding: The design of the app must adhere to the branding guidelines of the company owners or organization, ensuring that it is consistent with the company owners image and messaging.
+
+1.2	System Design
+
+System Design is the core concept behind the design of any distributed system. System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.
+
+2.2.1 Activity Diagram
+An activity diagram that illustrates the flow of activities in a system or process. It is used to model the steps in a process, such as a business process or software workflow, and to show the interactions between different elements of the process. fig. 10 show the Activity Diagram
+                                       Figure 10: Activity Diagram
+
+
+
+
+
+
+
+
+
+1.2.2	Use Case Diagram
+
+A use case diagram that represents the behavior of a system from a user's perspective. the system, and the specific use cases that the system performs in response to those interactions. fig. 11 show the Use Case Diagram.
+
+ 
+                                      Figure 11¬¬: Use Case Diagram
+
+2.2.3	Class Diagram
+
+A class diagram that represents the static structure of a system by showing its classes, their attributes, methods, and relationships. It is used to model object-oriented software systems. fig. 12 show the Class Diagram.
+
+ 
+Figure 12:Class Diagram
+1.2.4	Sequence Diagram
+
+A sequence diagram that shows the interactions between objects or components in a system over time. It is used to model the dynamic behavior of a system and to visualize how the system responds to a particular scenario or use case. [3] fig. 13 show the Sequence Diagram.
+                                       Figure 13: Sequence Diagram 
+1.2.5	ER Diagram
+
+ ER diagram that represents the relationships between entities in a system. It is used to model the data requirements of a system and to visualize the relationships between different entities.  [4] fig. 14 show the ER Diagram.
+ 
+
+                                       Figure 14: ER Diagram
+
