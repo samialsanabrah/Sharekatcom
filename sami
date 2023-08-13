@@ -1,0 +1,145 @@
+Sharekatcom application
+team:
+Sami Abdul Kareem Alsanabrah
+202010437
+Ahmed Jamal Karzoun
+201910082
+Anas Ibrahim aljawabrah
+202130057
+
+Team leader: Ahmed Jamal Karzoun
+Tools and Technologies Used:
+1.Flutter
+2. Firebase
+3. Android Studio
+4. GitHub
+
+
+
+
+
+
+
+
+Cover Page
+
+SE 545 Inspection Report Form
+
+Sharekatcom application
+Version: 2.0.0
+10/8/2023
+link GitHub: https://github.com/ahmadkarazou/Sharekatcom
+Amane Arabah University
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+SE 545 Inspection Report Form
+Project
+APE
+Date
+2023/8/10
+Phase/Product
+Software Requirements Specification
+Instructor
+Dr.Mohammad Nassar
+
+
+
+
+Recorder
+Sami alabadi 
+
+
+
+
+Engineer/Reviewer Data
+Inspector Name
+Preparation Data
+
+Size (unit)
+Time
+Number of Defects
+Rate
+ahmad
+
+
+2
+
+	Sami 
+
+
+2
+
+Anas 
+
+
+1
+
+
+
+30min
+
+2 d/hr
+
+Product Defect Data
+No.
+Artifact
+Defect Description
+Author Comments
+1
+1.7
+Grammar
+“2.1.1 requirement Elicitation Techniques
+CLG 23/8/10
+2
+SYS_USER4
+Compound
+“and activate” changed to “by activating’ 
+CLG 23/8/9
+3
+SYS_CNST2
+What is the accuracy?
+N/A. recorded incorrectly.
+CLG 23/8/10
+4
+SYS_CNST5
+Ambiguous
+Unecessary. Deleted.
+CLG 23/8/10
+5
+ASMP1
+Can we actually say that?
+We can and we are.
+Ignored.
+CLG 23/8/10
+
+Inspection Summary
+Moderator:
+Sami 
+alabadi
+Product Size:
+12 pages
+Total
+Defects:
+
+5
+Meeting Time:
+5:15 P.M.
+Total Inspection
+Hours:
+
+Overall
+Rate:
+
+
+
