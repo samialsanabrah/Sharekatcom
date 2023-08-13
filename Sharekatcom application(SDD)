@@ -1,0 +1,87 @@
+Sharekatcom application
+team:
+Sami Abdul Kareem Alsanabrah	202010437
+Ahmed Jamal Karzoun	201910082
+Anas Ibrahim aljawabrah	202130057
+
+Team leader: Ahmed Jamal Karzoun
+Tools and Technologies Used:
+1.Flutter
+2. Firebase
+3. Android Studio
+4. GitHub
+
+Cover Page
+
+Software Design Document (SDD)
+Sharekatcom application
+Version: 3.0.0
+13/8/2023
+link GitHub: https://github.com/ahmadkarazou/Sharekatcom
+Amane Arabah University
+
+Revisions Page 
+Version	Primary Author 	Description of Version	Date Completed
+3.0.0	Ahmad Karzoun	Ahmad Karzoun	13/8/2023
+
+1.	SYSTEM DESIGN 
+1.1	System Interfaces
+1.2	User Interface
+1.3	System Design 
+1.3.1	Activity Diagram
+1.3.2	Use Case Diagram 
+1.3.3	Class Diagram
+1.3.4	Sequence Diagram
+1.3.5	ER-Diagram
+
+1.	SYSTEM DESIGN 
+
+System Design is the core concept behind the design of any distributed system. System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.
+
+
+1.1 System Interfaces
+
+The Sharekatcom app platform will require several system interfaces to enable communication and data exchange between the different components of the system. Here are some of the system interfaces that may be included in the design of the Sharekatcom app platform:
+
+1.2 User Interfaces
+
+The user interface is the primary interface for users to interact with the Sharekatcom app platform.  designed to be user-friendly and intuitive, with a focus on ease of use and accessibility. The user interface may include features such as search functionality. Figs. 3, 4, 5, 6, 7, 8, and 9.
+
+
+      Figure 3: sign in                            Figure 4: Choose an account  
+Figure 5: Home page                          Figure 6: personal page                            
+       
+    Figure 7: Company page                              Figure 8: Rate page
+Figure 9: company information
+1.3	System Design
+
+System Design is the core concept behind the design of any distributed system. System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.
+
+1.3.1  Activity Diagram
+
+An activity diagram that illustrates the flow of activities in a system or process. It is used to model the steps in a process, such as a business process or software workflow, and to show the interactions between different elements of the process. fig. 10 show the Activity Diagram
+                                       Figure 10: Activity Diagram
+
+1.3.2	Use Case Diagram
+
+A use case diagram that represents the behavior of a system from a user's perspective. the system, and the specific use cases that the system performs in response to those interactions. fig. 11 show the Use Case Diagram.
+
+ 
+                                      Figure 11¬¬: Use Case Diagram
+
+1.3.3	 Class Diagram
+
+A class diagram that represents the static structure of a system by showing its classes, their attributes, methods, and relationships. It is used to model object-oriented software systems. fig. 12 show the Class Diagram.
+
+ 
+Figure 12:Class Diagram
+1.3.4	   Sequence Diagram
+A sequence diagram that shows the interactions between objects or components in a system over time. It is used to model the dynamic behavior of a system and to visualize how the system responds to a particular scenario or use case. [3] fig. 13 show the Sequence Diagram.
+                                       Figure 13: Sequence Diagram 
+1.3..5   ER Diagram
+
+ ER diagram that represents the relationships between entities in a system. It is used to model the data requirements of a system and to visualize the relationships between different entities.  [4] fig. 14 show the ER Diagram.
+ 
+
+                                       Figure 14: ER Diagram
+
